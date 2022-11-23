@@ -12,3 +12,4 @@
 |8 |[Binary Tree Level Order Traversal]() | [Solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Trees/Binary%20Tree%20Level%20Order%20Traversal.cpp) |
 |9 |[Lowest Common Ancestor of a Binary Search Tree]() |[Solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Trees/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp) |
 | 10  | [Validate Binary Search Tree]() | [Solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Trees/Validate%20Binary%20Search%20Tree.cpp) |
+|11| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Solution](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |
