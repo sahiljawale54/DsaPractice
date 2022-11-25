@@ -15,3 +15,4 @@
 |11| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Solution](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) |
 |12|[Sort 0 1 2 ](https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055?source=youtube&campaign=LoveBabbar_Codestudiovideo1&utm_source=youtube&utm_medium=affiliate&utm_campaign=LoveBabbar_Codestudiovideo1&leftPanelTab=0) | [Solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Array/Sort%200%201%202.cpp) |
 |13 |[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |[solution]()|
+|14 |[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Array/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp) |
