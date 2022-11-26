@@ -17,3 +17,4 @@
 |13 |[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) |[solution]()|
 |14 |[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Array/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp) |
 |15  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution]() | 
+|16 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution]() |
