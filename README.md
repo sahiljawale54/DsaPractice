@@ -18,3 +18,4 @@
 |14 |[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Array/Capacity%20To%20Ship%20Packages%20Within%20D%20Days.cpp) |
 |15  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution]() | 
 |16 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution]() |
+|17 | [Sum Of Two Arrays](https://www.codingninjas.com/codestudio/problems/sum-of-two-arrays_893186) | [Solution]()|
