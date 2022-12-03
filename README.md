@@ -20,3 +20,4 @@
 |16 | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution]() |
 |17 | [Sum Of Two Arrays](https://www.codingninjas.com/codestudio/problems/sum-of-two-arrays_893186) | [Solution]()|
 |18 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Array/Next%20Permutation.cpp) |
+|19 | [String Compression](https://leetcode.com/problems/string-compression/description/) |[Solution]() |
