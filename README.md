@@ -22,3 +22,4 @@
 |18 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution](https://github.com/sahiljawale54/DsaPractice/blob/main/Array/Next%20Permutation.cpp) |
 |19 | [String Compression](https://leetcode.com/problems/string-compression/description/) |[Solution]() |
 |20 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution]() |
+|21 | [Aggressive Cows](https://practice.geeksforgeeks.org/problems/aggressive-cows/1) | [Solution]()
