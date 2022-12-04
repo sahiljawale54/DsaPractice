@@ -23,3 +23,5 @@
 |19 | [String Compression](https://leetcode.com/problems/string-compression/description/) |[Solution]() |
 |20 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution]() |
 |21 | [Aggressive Cows](https://practice.geeksforgeeks.org/problems/aggressive-cows/1) | [Solution]()
+| 22 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution]() |
+| 23 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/854280473/) | [Solution]() |
