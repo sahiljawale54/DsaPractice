@@ -25,3 +25,5 @@
 |21 | [Aggressive Cows](https://practice.geeksforgeeks.org/problems/aggressive-cows/1) | [Solution]()
 | 22 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution]() |
 | 23 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/854280473/) | [Solution]() |
+| 24 | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution]() |
+| 25 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution]() |
