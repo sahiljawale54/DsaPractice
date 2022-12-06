@@ -27,3 +27,5 @@
 | 23 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/854280473/) | [Solution]() |
 | 24 | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution]() |
 | 25 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution]() |
+| 26 | [Circular Sentence]() |[Solution]() |
+| 26 | [Divide Players Into Teams of Equal Skill]() |[Solution]() |
