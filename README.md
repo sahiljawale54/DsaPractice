@@ -28,4 +28,5 @@
 | 24 | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution]() |
 | 25 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution]() |
 | 26 | [Circular Sentence]() |[Solution]() |
-| 26 | [Divide Players Into Teams of Equal Skill]() |[Solution]() |
+| 27 | [Divide Players Into Teams of Equal Skill]() |[Solution]() |
+| 28 | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |[Solution]() |
