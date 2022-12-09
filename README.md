@@ -31,3 +31,4 @@
 | 27 | [Divide Players Into Teams of Equal Skill]() |[Solution]() |
 | 28 | [ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) |[Solution]() |
 | 29 | [ Merge Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Solution]() |
+| 30  | [Quick Sort]() | [Solution]() |
