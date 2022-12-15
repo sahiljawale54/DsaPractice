@@ -33,3 +33,4 @@
 | 29 | [ Merge Sort an Array](https://leetcode.com/problems/sort-an-array/description/) | [Solution]() |
 | 30  | [Quick Sort]() | [Solution]() |
 |31  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution]() |
+|32| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|[Solution]()|
