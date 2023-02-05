@@ -90,3 +90,42 @@ int main(){
   func(arr , 0 , k , ds , 0);
 }
 
+
+// printing any one subquence whose sum is k 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+bool func(int arr[] , int idx , int k , vector<int> &ds , int sum){
+  
+  if(idx == 4) {
+    if(sum == k){
+      for(auto ele : ds) cout<< ele <<" ";
+      cout<<endl;
+      return true; //idhar change
+    }
+    
+    return false; //idhar change
+  }
+  
+  //take wala case
+  
+  ds.push_back(arr[idx]);
+  sum+=arr[idx];
+  
+  if(func(arr , idx+1 , k , ds , sum) ) return true; //idhar change
+  
+  ds.pop_back();
+  sum-=arr[idx];
+  
+  if(func(arr , idx+1 , k , ds , sum)) return true; //idhar change
+  return false;  //idhar change
+}
+
+int main(){
+  int arr[5] = {1  ,2, 1 , 2 , 4};
+  
+  int k = 4;
+  vector<int> ds;
+  func(arr , 0 , k , ds , 0);
+}
