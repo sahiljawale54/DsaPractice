@@ -51,3 +51,42 @@ int main() {
     func(array , 0 , 3 , ans);
 }
 
+
+// /print all subquence whose sum is k 
+
+#include<bits/stdc++.h>
+using namespace std;
+
+void func(int arr[] , int idx , int k , vector<int> &ds , int sum){
+  
+  if(idx == 3) {
+    if(sum == k){
+      for(auto ele : ds) cout<< ele <<" ";
+      cout<<endl;
+    }
+    
+    return;
+  }
+  
+  //take wala case
+  
+  ds.push_back(arr[idx]);
+  sum+=arr[idx];
+  
+  func(arr , idx+1 , k , ds , sum);
+  
+  ds.pop_back();
+  sum-=arr[idx];
+  
+  func(arr , idx+1 , k , ds , sum);
+  
+}
+
+int main(){
+  int arr[3] = {1  ,2, 1 };
+  
+  int k = 2;
+  vector<int> ds;
+  func(arr , 0 , k , ds , 0);
+}
+
